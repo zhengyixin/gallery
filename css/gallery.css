@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #eee;
+}
+ul{
+	list-style: none;
+}
+#example{
+	margin: 10px auto;
+	text-align: center;
+	height: 800px;
+	width: 80%;
+}
+.topbar{
+	margin-left: 15px;
+	cursor: pointer;
+}
+.site{
+	margin: 5px auto;
+	cursor: pointer;
+	display: block;	
+	width: 32%;
+	border: 1px solid #ccc;
+	background: #fff;
+}
+.site img{
+	padding: 6px;
+	width: 324px;
+	height: 216px;	
+	margin: 0 auto;	
+}
+.fel{
+	float: left;
+	margin-left: 10px;
+}
+.thumb{
+	width: 324px;
+	height: 216px;
+}
